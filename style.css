@@ -20,6 +20,7 @@ body {
 .data .title {
   color: rgba(127, 140, 141, 0.5);
   margin-bottom: -0.3em;
+  padding: 0.15em;
   text-align: center;
   -webkit-border-radius: 0.3em;
   -moz-border-radius: 0.3em;
@@ -62,7 +63,7 @@ body {
   background: rgba(52, 73, 94, 0.1);
   border-left: 0.2em solid;
   margin: 0.2em;
-  padding: 0.1em;
+  padding: 0.2em;
 }
 
 @media all and (max-width: 480px) {
