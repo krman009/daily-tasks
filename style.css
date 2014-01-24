@@ -13,10 +13,9 @@ body {
   padding: 0.3em;
   -webkit-border-radius: 0.3em;
   -moz-border-radius: 0.3em;
-  -ms-border-radius: 0.3em;
-  -o-border-radius: 0.3em;
   border-radius: 0.3em;
 }
+
 .data .title {
   color: rgba(127, 140, 141, 0.5);
   margin-bottom: -0.3em;
@@ -24,9 +23,11 @@ body {
   text-align: center;
   -webkit-border-radius: 0.3em;
   -moz-border-radius: 0.3em;
-  -ms-border-radius: 0.3em;
-  -o-border-radius: 0.3em;
   border-radius: 0.3em;
+}
+
+.data a {
+  color: inherit;
 }
 
 .day {
@@ -41,8 +42,6 @@ body {
   text-align: center;
   -webkit-border-radius: 0.3em;
   -moz-border-radius: 0.3em;
-  -ms-border-radius: 0.3em;
-  -o-border-radius: 0.3em;
   border-radius: 0.3em;
 }
 
@@ -59,14 +58,15 @@ body {
   list-style: none;
   text-align: center;
 }
+
 .day ul li {
   background: rgba(52, 73, 94, 0.1);
   border-left: 0.2em solid;
   margin: 0.2em;
-  padding: 0.2em;
+  padding: 0.1em;
 }
 
-@media all and (max-width: 480px) {
+@media all and (max-width: 30em) {
   body {
     font-size: 0.9em;
   }
