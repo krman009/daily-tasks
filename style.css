@@ -75,3 +75,11 @@ body {
     font-size: 0.9em;
   }
 }
+
+code {
+  background: #1B85EE;
+  border-radius: 0.4em;
+  color: white;
+  font-family: inherit;
+  padding: 0.1em 0.3em;
+}
