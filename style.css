@@ -86,10 +86,10 @@ code {
 
 ::-moz-selection {
   color: white;
- background: hotpink; 
+  background: hotpink; 
 }
 
 ::selection {
   color: white;
- background: hotpink; 
+  background: hotpink; 
 } 
