@@ -9,3 +9,7 @@
   + And There should be a live server at [http://localhost:9090](http://localhost:9090).
 
 > Note: Make sure that you have the [node.js](http://nodejs.org) and [gulpjs](http://gulpjs.com) installed on your machine.
+
+### LICENSE
+
+MIT (c) Kaushalya Mandaliya
