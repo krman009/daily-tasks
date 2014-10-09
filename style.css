@@ -29,9 +29,18 @@ body {
 }
 
 .data a {
-  border-bottom: 0.15em solid;
+  border-bottom: 0.1em solid;
   color: inherit;
   text-decoration: none;
+  padding: 0.1em;
+  -webkit-transition: 0.1s all ease-in;
+  -o-transition: 0.1s all ease-in;
+  transition: 0.1s all ease-in;
+}
+
+.data a:hover {
+  background: #fff;
+  border: none;
 }
 
 .day {
