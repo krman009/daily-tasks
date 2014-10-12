@@ -1,6 +1,6 @@
 ## [Live Demo](http://krman009.github.io/Daily-Task/) 
 
-##### 2014 by Kaushalya Mandaliya | [@kmandalwala](https://twitter.com/kmandalwala "I'm on twitter") | http://seebeetee.com
+##### 2014 by [Kaushalya Mandaliya](https://twitter.com/kmandalwala "@kmandalwala") | http://seebeetee.com
 ---
 + Live Server:
   + To fireup a live server you've to open your **terminal/command prompt/command line.**
