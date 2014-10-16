@@ -1,4 +1,4 @@
-## [Live Demo](http://krman009.github.io/Daily-Task/) 
+## [Daily-Task](http://krman009.github.io/Daily-Task/) 
 
 ##### 2014 by [Kaushalya Mandaliya](https://twitter.com/kmandalwala "@kmandalwala") | http://seebeetee.com
 ---
