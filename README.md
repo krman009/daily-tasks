@@ -12,5 +12,5 @@
 > *Note: Make sure that you have the [node.js](http://nodejs.org) and [gulpjs](http://gulpjs.com) installed on your machine.
 
 ---
-## LICENSE
+## [LICENSE](https://github.com/krman009/Daily-Task/blob/master/LICENSE)
 MIT (c) Kaushalya Mandaliya
