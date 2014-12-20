@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=Ubuntu');
+/*@import url('fonts.css');*/
 
 body {
   background: #3498db;
@@ -10,7 +10,7 @@ body {
 .data {
   background: #ecf0f1;
   color: #34495e;
-  font: normal 1.3em "Ubuntu",sans-serif;
+  font: normal 1.3em 'Ubuntu',sans-serif;
   margin: 1em auto;
   max-width: 45em;
   padding: 0.3em;
