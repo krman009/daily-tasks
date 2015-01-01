@@ -18,11 +18,11 @@
   
 + To install [gulpjs](http://gulpjs.com) globally:
   + run this command in your `command line`
-    + npm install --global gulp
+    + `npm install --global gulp`
 
 + To install [gulpjs](http://gulpjs.com) in your Project devDependencies:
   + run this command in your `command line`
-    + npm install --save-dev gulp
+    + `npm install --save-dev gulp`
 
 ---
 ## [LICENSE](https://github.com/krman009/Daily-Task/blob/master/LICENSE)
