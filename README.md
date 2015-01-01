@@ -14,13 +14,13 @@
 ---
 
 + To install [node.js](http://nodejs.org):
-  + Just download it and install on your machine.
+  + Just download it from [nodejs.org](http://nodejs.org) and install it.
   
-+ To install [gulpjs](http://gulpjs.com) globally:
++ To install [gulpjs](http://gulpjs.com) globally: [First, Make sure you've installed `nodejs`.]
   + run this command in your `command line`
     + `npm install --global gulp`
 
-+ To install [gulpjs](http://gulpjs.com) in your Project devDependencies:
++ To install [gulpjs](http://gulpjs.com) in your Project devDependencies: [First, Make sure you've installed `nodejs`.]
   + run this command in your `command line`
     + `npm install --save-dev gulp`
 
