@@ -12,5 +12,18 @@
 > *Note: Make sure that you have the [node.js](http://nodejs.org) and [gulpjs](http://gulpjs.com) installed on your machine.
 
 ---
+
++ To install [node.js](http://nodejs.org):
+  + Just download it from [nodejs.org](http://nodejs.org) and install it.
+  
++ To install [gulpjs](http://gulpjs.com) globally: [First, Make sure you've installed `nodejs`.]
+  + run this command in your `command line`
+    + `npm install --global gulp`
+
++ To install [gulpjs](http://gulpjs.com) in your Project devDependencies: [First, Make sure you've installed `nodejs`.]
+  + run this command in your `command line`
+    + `npm install --save-dev gulp`
+
+---
 ## [LICENSE](https://github.com/krman009/Daily-Task/blob/master/LICENSE)
 MIT (c) Kaushalya Mandaliya
