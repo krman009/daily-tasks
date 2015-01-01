@@ -10,11 +10,19 @@
   + And There should be a live server at [http://localhost:9090](http://localhost:9090).
 
 > *Note: Make sure that you have the [node.js](http://nodejs.org) and [gulpjs](http://gulpjs.com) installed on your machine.
+
 ---
 
-+ To Install [node.js](http://nodejs.org):
++ To install [node.js](http://nodejs.org):
   + Just download it and install on your machine.
   
++ To install [gulpjs](http://gulpjs.com) globally:
+  + run this command in your `command line`
+    + npm install --global gulp
+
++ To install [gulpjs](http://gulpjs.com) in your Project devDependencies:
+  + run this command in your `command line`
+    + npm install --save-dev gulp
 
 ---
 ## [LICENSE](https://github.com/krman009/Daily-Task/blob/master/LICENSE)
