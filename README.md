@@ -1,4 +1,4 @@
-## [Daily-Task](http://krman009.github.io/Daily-Task/) 
+## [Daily-Task](http://krman009.github.io/Daily-Task/)
 
 ##### 2014 by [Kaushalya Mandaliya](https://twitter.com/kmandalwala "@kmandalwala") | http://seebeetee.com
 ---
@@ -9,7 +9,7 @@
   + *Then type `gulp` and wait for some seconds..
   + And There should be a live server at [http://localhost:9090](http://localhost:9090).
 
-> *Note: Make sure that you have the [node.js](http://nodejs.org) and [gulpjs](http://gulpjs.com) installed on your machine.
+> *Note: Make sure that you have instlled the [node.js](http://nodejs.org) and [gulpjs](http://gulpjs.com) on your machine. (If not, don't worry I've written little guide below. :))
 
 ---
 
