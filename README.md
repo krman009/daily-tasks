@@ -30,7 +30,7 @@ Installing `gulpjs`: [when you hit `npm install`, gulp will be installed in pres
   + Type below command in your `command line` and press `Enter`
     + `npm install --save-dev gulp`
 
-It's not mandatory to install gulp globally.
+It's not **mandatory** to install **gulp globally**.
 
 ---
 ## [LICENSE](https://github.com/krman009/Daily-Task/blob/master/LICENSE)
