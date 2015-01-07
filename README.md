@@ -24,13 +24,11 @@ Installing `gulpjs`: [when you hit `npm install`, gulp will be installed in pres
   + Type below command in your `command line` and press `Enter`
     + `npm install --global gulp`
 
-+ **To install [gulpjs](http://gulpjs.com) in your Project devDependencies: [First, Make sure you've installed `nodejs`.]
++ \*\*To install [gulpjs](http://gulpjs.com) in your Project devDependencies: [First, Make sure you've installed `nodejs`.]
   + Type below command in your `command line` and press `Enter`
     + `npm install --save-dev gulp`
 
-\*\*This will not work if you've not installed **gulp globally.**
-
-It's **mandatory** to install **gulp globally.**
+\*\*After successfully run of this command, if you're going to run the `gulp` command then It will probably not work if `gulp` isn't installed globally.
 
 ---
 ## [LICENSE](https://github.com/krman009/Daily-Task/blob/master/LICENSE)
