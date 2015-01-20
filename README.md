@@ -28,7 +28,9 @@ Installing `gulpjs`: [when you hit `npm install`, gulp will be installed in pres
   + Type below command in your `command line` and press `Enter`
     + `npm install --save-dev gulp`
 
-\*\*After successfully run of this command, if you're going to run the `gulp` command then It will probably not work if `gulp` isn't installed globally in your machine.
+\*\* If you only install `gulp` in Project `devDependencies` then It will not <sup>[\[1\]]()</sup>work in your `Command line`. Thus You've to install it globally first, to run the command `gulp`.
+
+### <sup>\[1\]</sup>As tested in Windows 8, The `gulp` command isn't working without installing it globally.
 
 ---
 ## [LICENSE](https://github.com/krman009/Daily-Task/blob/master/LICENSE)
