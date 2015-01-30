@@ -3,7 +3,7 @@
 ##### 2014 by [Kaushalya Mandaliya](https://twitter.com/kmandalwala "@kmandalwala") | http://seebeetee.com
 ---
 + Live Server:
-  + To fireup a live server you've to open your **terminal/command prompt/command line.**
+  + Open up your **terminal/command prompt/command line.**
   + Navigate to the **Daily-Task directory.**
   + *Type `npm install` to install `devDependencies`.
   + *Then type `gulp` and press `Enter` and wait for some seconds.
