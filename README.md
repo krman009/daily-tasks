@@ -7,7 +7,7 @@
   + Navigate to the **Daily-Task directory.**
   + *Type `npm install` to install `devDependencies`.
   + *Then type `gulp` and press `Enter` and wait for some seconds.
-  + And There should be a live server at [http://localhost:9090](http://localhost:9090).
+  + And There should be a live server at [http://localhost:9999](http://localhost:9999).
 
 > *Note: Make sure that you have installed the [node.js](http://nodejs.org) and [gulpjs](http://gulpjs.com/)  on your machine. (If you've not, don't worry I've written little guide below. :))
 
