@@ -1,6 +1,6 @@
 ## [Daily-Task](http://krman009.github.io/Daily-Task/)
 
-##### 2014 by [Kaushalya Mandaliya](https://twitter.com/kmandalwala "@kmandalwala") | http://seebeetee.com
+##### 2015 by [Kaushalya Mandaliya](https://twitter.com/kmandalwala "@kmandalwala") | http://seebeetee.com
 ---
 + Live Server:
   + Open up your **terminal/command prompt/command line.**
