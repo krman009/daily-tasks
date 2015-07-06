@@ -100,10 +100,10 @@ code {
 
 ::-moz-selection {
   color: white;
-  background: hotpink; 
+  background: rgb(102, 102, 102); 
 }
 
 ::selection {
   color: white;
-  background: hotpink; 
-} 
+  background: rgb(102, 102, 102); 
+}
