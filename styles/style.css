@@ -1,10 +1,15 @@
 /*@import url('fonts.css');*/
 
 body {
-  background: #3498db;
+  background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuMCIgeTE9IjEuMCIgeDI9IjEuMCIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y1YWY3MSIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZDlkZWUxIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjN2RiN2VmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
+  background: -moz-linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
+  background: -webkit-linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
+  background: linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
   font-family: 'Ubuntu', sans-serif;
   margin: 0;
   padding: 0;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .data {
@@ -95,10 +100,10 @@ code {
 
 ::-moz-selection {
   color: white;
-  background: hotpink; 
+  background: rgb(102, 102, 102); 
 }
 
 ::selection {
   color: white;
-  background: hotpink; 
-} 
+  background: rgb(102, 102, 102); 
+}
