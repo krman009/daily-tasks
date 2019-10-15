@@ -1,117 +1,105 @@
 @import url('fonts.css');
-
 body {
-  background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuMCIgeTE9IjEuMCIgeDI9IjEuMCIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y1YWY3MSIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZDlkZWUxIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjN2RiN2VmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
-  background: -moz-linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
-  background: -webkit-linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
-  background: linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
-  font-family: 'Ubuntu', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-attachment: fixed;
-  background-size: cover;
+    background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuMCIgeTE9IjEuMCIgeDI9IjEuMCIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y1YWY3MSIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZDlkZWUxIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjN2RiN2VmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
+    background: -moz-linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
+    background: -webkit-linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
+    background: linear-gradient(45deg, #f5af71, #d9dee1, #7db7ef);
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .data {
-  background: #ecf0f1;
-  color: #34495e;
-  font: normal 1.3em 'Ubuntu',sans-serif;
-  margin: 1em auto;
-  max-width: 45em;
-  padding: 0.3em;
-  -webkit-border-radius: 0.3em;
-  -moz-border-radius: 0.3em;
-  border-radius: 0.3em;
+    background: #ecf0f1;
+    color: #34495e;
+    font: normal 1.3em 'Ubuntu', sans-serif;
+    margin: 1em auto;
+    max-width: 45em;
+    padding: 0.3em;
+    border-radius: 0.3em;
 }
 
 .data .title {
-  color: rgba(127, 140, 141, 0.5);
-  margin-bottom: -0.3em;
-  text-align: center;
-  -webkit-border-radius: 0.3em;
-  -moz-border-radius: 0.3em;
-  border-radius: 0.3em;
+    color: rgba(127, 140, 141, 0.5);
+    margin-bottom: -0.3em;
+    text-align: center;
+    border-radius: 0.3em;
 }
 
 .data a {
-  border-bottom: 0.1em solid;
-  color: inherit;
-  text-decoration: none;
-  padding: 0.1em;
-  -webkit-transition: 0.1s all ease-in;
-  -o-transition: 0.1s all ease-in;
-  transition: 0.1s all ease-in;
+    border-bottom: 0.1em solid;
+    color: inherit;
+    text-decoration: none;
+    padding: 0.1em;
+    transition: 0.1s all ease-in;
 }
 
 .data a:hover {
-  background: #fff;
-  border: none;
+    background: #fff;
+    border: none;
 }
 
 .day {
-  margin: 0.2em 0;
-  padding: 0.5em 0;
+    margin: 0.2em 0;
+    padding: 0.5em 0;
 }
 
 .date {
-  background: #e88630;
-  /*background: #34495e;*/
-  color: white;
-  padding: 0.2em;
-  text-align: center;
-  -webkit-border-radius: 0.3em;
-  -moz-border-radius: 0.3em;
-  border-radius: 0.3em;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
+    background: #e88630;
+    color: white;
+    padding: 0.2em;
+    text-align: center;
+    border-radius: 0.3em;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 .last-edit {
-  color: rgba(52, 73, 94, 0.5);
-  font-size: 0.85em;
-  padding: 0.15em;
-  text-align: right;
+    color: rgba(52, 73, 94, 0.5);
+    font-size: 0.85em;
+    padding: 0.15em;
+    text-align: right;
 }
 
 .day ul {
-  padding: 0.3em 0;
-  margin: 0;
-  list-style: none;
-  text-align: center;
+    padding: 0.3em 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
 }
 
 .day ul li {
-  background: rgba(52, 73, 94, 0.1);
-  /*border-left: 0.2em solid;*/
-  /*margin: 0.2em;*/
-  padding: 0.37em;
+    background: rgba(52, 73, 94, 0.1);
+    padding: 0.37em;
 }
 
 .day ul li:last-child {
-  border-bottom-right-radius: 0.3em;
-  border-bottom-left-radius: 0.3em;
+    border-bottom-right-radius: 0.3em;
+    border-bottom-left-radius: 0.3em;
 }
 
 @media all and (max-width: 30em) {
-  body {
-    font-size: 0.9em;
-  }
+    body {
+        font-size: 0.9em;
+    }
 }
 
 code {
-  background: #1B85EE;
-  border-radius: 0.4em;
-  color: white;
-  font-family: inherit;
-  padding: 0.1em 0.3em;
+    background: #1B85EE;
+    border-radius: 0.4em;
+    color: white;
+    font-family: inherit;
+    padding: 0.1em 0.3em;
 }
 
 ::-moz-selection {
-  color: white;
-  background: rgb(102, 102, 102); 
+    color: white;
+    background: rgb(102, 102, 102);
 }
 
 ::selection {
-  color: white;
-  background: rgb(102, 102, 102); 
-} 
+    color: white;
+    background: rgb(102, 102, 102);
+}
